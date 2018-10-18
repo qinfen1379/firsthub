@@ -11,7 +11,6 @@ import codecs
 
 mail_host = 'smtp.163.com'
 mail_user = 'qinfen_python@163.com'
-mail_pass = '562059487'
 sender = 'qinfen_python@163.com'
 
 
